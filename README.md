@@ -11,4 +11,4 @@ Simple project to use for technical interviews in Scala
 1. Import into your IDE of choice
 1. Implement your solution in [src/main/scala/Interview.scala](src/main/scala/Interview.scala)
 1. Implement your tests in [src/test/scala/InterviewTest.scala](src/test/scala/InterviewTest.scala)
-1. Run unit tests in IDE or via the command line with `sbt test`
+1. Run unit tests in IDE or via the command line with `sbt ~test`
